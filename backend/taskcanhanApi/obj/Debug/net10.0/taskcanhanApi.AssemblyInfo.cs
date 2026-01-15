@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("taskcanhanApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a025f9ef8e55fa07462d23fc4ec03061a1d232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f596ebac1d7e118645da24e2363566615f9bbc07")]
 [assembly: System.Reflection.AssemblyProductAttribute("taskcanhanApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("taskcanhanApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
